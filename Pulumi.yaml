@@ -1,0 +1,3 @@
+name: gcp-go-container-with-pulumi
+runtime: nodejs
+description: An educational all-in-one Golang application container + Infrastructure as Code with Pulumi to deploy it to Google Cloud

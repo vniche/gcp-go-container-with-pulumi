@@ -1,0 +1,12 @@
+{
+    "name": "gcp-go-container-with-pulumi",
+    "main": "index.ts",
+    "dependencies": {
+        "@pulumi/docker": "^3.6.1",
+        "@pulumi/gcp": "^6.50.0",
+        "@pulumi/pulumi": "^3.55.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.14.0"
+    }
+}
